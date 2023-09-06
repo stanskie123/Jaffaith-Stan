@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Biology Poster</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Biology Poster</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Biology</h2>
+            <p>
+                Biology is the study of living organisms, including their structure, function,
+                growth, evolution, and distribution. It is a fascinating field that explores
+                the diversity of life on Earth.
+            </p>
+        </section>
+
+        <section>
+            <h2>Why Study Biology?</h2>
+            <p>
+                Studying biology helps us understand the natural world and the life processes
+                that govern it. It has applications in medicine, conservation, agriculture,
+                and more.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Biology Poster</p>
+    </footer>
+</body>
+</html>
